@@ -32,7 +32,7 @@
 
 - **HTML5**: For creating the structure of the login page.
 - **CSS3**: For styling the page, including layout, colors, and animations.
-- **JavaScript**: For handling the triggering and dismissal of the travel website.
+- **JavaScript**: For form validation and interactivity.
 
 ## 🚀 Project Setup
 
