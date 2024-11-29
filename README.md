@@ -54,7 +54,7 @@ open index.html
 
 ## 🌟 Screenshots
 
-![Modern_Login_Page-Screenshot](/images/T-W_Screenshot.png)
+![Modern_Login_Page-Screenshot](/MLP_Screenshot.png)
 
 ## 🔗 Live Demo
 
@@ -80,7 +80,7 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akki_214g/)
 
 <a href="">
-  <img src="/images/logoo.jpeg" alt="Icon" style="vertical-align:middle; width:50px; height:auto;">
+  <img src="/logoo.jpeg" alt="Icon" style="vertical-align:middle; width:50px; height:auto;">
 </a>
 
 ## Thank You &#10084;
