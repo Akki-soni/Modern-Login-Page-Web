@@ -23,6 +23,8 @@
 
 ## 🛠️ Features
 
+- **Responsive Design**: The login page is fully responsive and adjusts to various screen sizes.
+
 ## 🛠️ Technologies Used
 
 - **HTML**: For structuring the travel website and main page layout.
