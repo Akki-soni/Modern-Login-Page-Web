@@ -39,8 +39,8 @@
 No external dependencies are required. Just clone the repository and open the `index.html` file in any modern web browser.
 
 ```bash
-git clone <https://github.com/Akki-soni/Travel_website-main.git>
-cd travel-website
+git clone <>
+cd Modern Login Page
 open index.html
 ```
 
@@ -54,11 +54,11 @@ open index.html
 
 ## 🌟 Screenshots
 
-![PopUp-Screenshot](/images/T-W_Screenshot.png)
+![Modern_Login_Page-Screenshot](/images/T-W_Screenshot.png)
 
 ## 🔗 Live Demo
 
-[View Live Demo](https://travel-website-main-blond.vercel.app/)
+[View Live Demo]()
 
 ## 🤝 Contributing
 
@@ -85,7 +85,7 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 
 ## Thank You &#10084;
 
-Thank you for exploring the StopWatch! Your feedback is valuable. If you have any suggestions or thoughts, feel free to share them with us. 😊
+Thank you for exploring the Modern Login Page! Your feedback is valuable. If you have any suggestions or thoughts, feel free to share them with us. 😊
 
 </div>
 
