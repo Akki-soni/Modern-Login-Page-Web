@@ -21,6 +21,8 @@
   A modern and responsive login page built using **HTML**, **CSS**, and **JavaScript**. This project demonstrates a clean, minimalistic design with smooth animations and a user-friendly interface.
 </p>
 
+## 🛠️ Features
+
 ## 🛠️ Technologies Used
 
 - **HTML**: For structuring the travel website and main page layout.
