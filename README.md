@@ -31,7 +31,7 @@
 ## 🛠️ Technologies Used
 
 - **HTML5**: For creating the structure of the login page.
-- **CSS**: For designing the appearance of the travel website and adding animations.
+- **CSS3**: For styling the page, including layout, colors, and animations.
 - **JavaScript**: For handling the triggering and dismissal of the travel website.
 
 ## 🚀 Project Setup
