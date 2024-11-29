@@ -26,6 +26,7 @@
 - **Responsive Design**: The login page is fully responsive and adjusts to various screen sizes.
 - **Smooth Animations**: Subtle animations on input fields and buttons for a modern look and feel.
 - **Form Validation**: Basic client-side form validation using JavaScript to ensure correct input.
+- **Stylish Layout**: Minimalistic and clean design with a modern touch.
 
 ## 🛠️ Technologies Used
 
